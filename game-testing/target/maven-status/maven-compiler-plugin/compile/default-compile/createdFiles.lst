@@ -1,0 +1,5 @@
+game\testing\controller\model\PublisherData$GameData.class
+game\testing\GameTestingApplication.class
+game\testing\controller\model\PublisherData$TesterData.class
+game\testing\controller\model\PublisherData.class
+game\testing\controller\TestingController.class
